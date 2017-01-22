@@ -12,7 +12,7 @@ You need to be able to communicate, both in verbal and written form, in order to
 -	If you perform very well in an interview, you may not have to work too hard after that to maintain this confidence.
 -	If you underperform in an interview you will have to work hard to regain the employer’s confidence in you.
 
-*Apply for one of the jobs offered in the first week of the course. *
+**Apply for one of the jobs offered in the first week of the course.**
 
 This will include submitting a CV and cover letter and undergoing a job interview.
 You will be judged on your ability to follow the job application process and on your ability to communicate clearly and professionally.
