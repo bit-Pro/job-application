@@ -16,3 +16,6 @@ You need to be able to communicate, both in verbal and written form, in order to
 
 This will include submitting a CV and cover letter and undergoing a job interview.
 You will be judged on your ability to follow the job application process and on your ability to communicate clearly and professionally.
+
+### Submission
+All documents are to be submitted in suitable file format to your job application repo, created by Github for Classroom. Any files which are difficult to locate or open will be considered missing.
